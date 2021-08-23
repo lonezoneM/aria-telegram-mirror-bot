@@ -43,7 +43,7 @@
     "node-telegram-bot-api": "^0.52.0",
     "nodemon": "^2.0.12",
     "npmlog": "^4.1.2",
-    "p-limit": "^3.1.0",
+    "p-limit": "^4.0.0",
     "request": "^2.88.2",
     "shell-quote": "^1.7.2",
     "system-install": "^1.0.4",
@@ -54,7 +54,7 @@
     "unzipper": "^0.10.10",
     "uuid": "^8.3.2",
     "wget-improved": "^3.2.0",
-    "ytdl-core": "^4.8.3"
+    "ytdl-core": "^4.9.1"
   },
   "devDependencies": {
     "@types/npmlog": "^4.1.3",
